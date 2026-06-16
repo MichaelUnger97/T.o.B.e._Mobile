@@ -12,22 +12,22 @@
         android:gravity="center"
         android:padding="16dp">
 
-        <ImageView
-            android:layout_width="576px"
-            android:layout_height="576px"
-            android:layout_gravity="center_horizontal"
-            android:src="@mipmap/ic_launcher" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t5_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t1_h" />
+            android:text="@string/t5_p" />
 
-        <TextView
+        <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t1_p" />
+            android:text="@string/t5_a" />
     </LinearLayout>
 </ScrollView>

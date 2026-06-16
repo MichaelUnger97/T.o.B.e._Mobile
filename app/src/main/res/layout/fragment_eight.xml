@@ -12,22 +12,34 @@
         android:gravity="center"
         android:padding="16dp">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t6_h" />
+
         <ImageView
-            android:layout_width="576px"
-            android:layout_height="576px"
+            android:layout_width="640px"
+            android:layout_height="433px"
             android:layout_gravity="center_horizontal"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/vortraege_toxische_beziehungen_ueberwinden" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t1_h" />
+            android:text="@string/t6_1_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t1_p" />
+            android:text="@string/t6_1_p" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t6_1_a" />
     </LinearLayout>
 </ScrollView>

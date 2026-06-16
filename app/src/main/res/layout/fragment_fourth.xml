@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".SecondFragment">
+    tools:context=".FourthFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -30,7 +30,7 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:src="@drawable/help"
+                android:src="@drawable/money"
                 android:layout_gravity="center" />
 
         </com.google.android.material.card.MaterialCardView>
@@ -39,20 +39,20 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t2_1_h" />
+            android:text="@string/t2_3_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t2_1_p" />
+            android:text="@string/t2_3_p" />
 
         <Button
             android:id="@+id/t2_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t2_1_a" />
+            android:text="@string/t2_3_a" />
 
     </LinearLayout>
 </ScrollView>
