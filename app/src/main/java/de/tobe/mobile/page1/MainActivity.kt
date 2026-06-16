@@ -44,8 +44,8 @@ class MainActivity : AppCompatActivity() {
             }
         }
         binding.buttonNext.setOnClickListener {
-            val fragmentNr = getFragmentNr()
-            getNext(fragmentNr)?.let { fragment ->
+            val fragmentNr = findFragmentNr()
+            getNext(fragmentNr).let { fragment ->
                 supportFragmentManager.commit {
                     replace(R.id.nav_host_fragment_content_main, fragment)
                     setReorderingAllowed(true)
@@ -54,8 +54,8 @@ class MainActivity : AppCompatActivity() {
             }
         }
         binding.buttonPrevious.setOnClickListener {
-            val fragmentNr = getFragmentNr()
-            getPrev(fragmentNr)?.let { fragment ->
+            val fragmentNr = findFragmentNr()
+            getPrev(fragmentNr).let { fragment ->
                 supportFragmentManager.commit {
                     replace(R.id.nav_host_fragment_content_main, fragment)
                     setReorderingAllowed(true)
@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun getFragmentNr(): Int {
+    private fun findFragmentNr(): Int? {
         supportFragmentManager.executePendingTransactions()
         val fragment =
             supportFragmentManager.findFragmentById(R.id.nav_host_fragment_content_main)!!
@@ -85,17 +85,25 @@ class MainActivity : AppCompatActivity() {
             is ThirteenthFragment -> 13
             else -> null
         }
-        return fragmentNr!!
+        return fragmentNr
     }
 
-    fun getNext(current: Int): Fragment? {
-        val next = current + 1
-        return fragmentFromNr(next)
+    fun getNext(current: Int?): Fragment {
+        return current?.let {
+            val next = it + 1
+            if (next < 14) {
+                fragmentFromNr(next)
+            } else {
+                ThirteenthFragment()
+            }
+        } ?: FirstFragment()
     }
 
-    fun getPrev(current: Int): Fragment? {
-        val prev = current - 1
-        return fragmentFromNr(prev)
+    fun getPrev(current: Int?): Fragment {
+        return current?.let {
+            val prev = it - 1
+            fragmentFromNr(prev)
+        } ?: FirstFragment()
     }
 
     fun fragmentFromNr(nr: Int): Fragment? {
