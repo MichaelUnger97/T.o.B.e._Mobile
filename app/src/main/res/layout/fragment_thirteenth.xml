@@ -16,122 +16,102 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t8_1_1_h" />
+            android:text="@string/t9_1_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t8_1_2_h" />
+            android:text="@string/t9_2_h" />
 
-        <TextView
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:orientation="vertical"
             android:layout_marginTop="16dp"
-            android:text="@string/t8_1_p" />
+            android:gravity="center"
+            android:background="@drawable/linear_border">
 
-        <Button
+            <ImageView
+                android:layout_width="768px"
+                android:layout_height="512px"
+                android:layout_marginTop="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/blog1" />
+
+            <TextView
+                android:layout_width="768px"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/t9_2_1_p" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_gravity="start"
+                android:text="@string/t9_2_2_p" />
+        </LinearLayout>
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:orientation="vertical"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:background="@drawable/linear_border">
+
+            <ImageView
+                android:layout_width="768px"
+                android:layout_height="512px"
+                android:layout_marginTop="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/blog2" />
+
+            <TextView
+                android:layout_width="768px"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/t9_3_1_p" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_gravity="start"
+                android:text="@string/t9_3_2_p" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:orientation="vertical"
             android:layout_marginTop="16dp"
-            android:text="@string/t8_1_a" />
-
-        <LinearLayout
-            android:layout_marginTop="16dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
             android:gravity="center"
-            android:orientation="vertical"
             android:background="@drawable/linear_border">
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/t8_2_1a" />
+            <ImageView
+                android:layout_width="768px"
+                android:layout_height="512px"
+                android:layout_marginTop="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/blog3" />
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="768px"
                 android:layout_height="wrap_content"
-                android:text="@string/t8_2_2a" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_marginTop="8dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:gravity="center"
-            android:orientation="vertical"
-            android:background="@drawable/linear_border">
+                android:layout_marginTop="16dp"
+                android:text="@string/t9_4_1_p" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="@string/t8_3_1a" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_3_2a" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_marginTop="8dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:gravity="center"
-            android:orientation="vertical"
-            android:background="@drawable/linear_border">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_4_1a" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_4_2a" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_4_3a" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_marginTop="8dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="16dp"
-            android:gravity="center"
-            android:orientation="vertical"
-            android:background="@drawable/linear_border">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_5_1a" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_5_2a" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="@string/t8_5_3a" />
+                android:layout_gravity="start"
+                android:text="@string/t9_4_2_p" />
         </LinearLayout>
     </LinearLayout>
 </ScrollView>

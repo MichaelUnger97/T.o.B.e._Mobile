@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">T.o.B.e</string>
+    <string name="app_name">T.o.B.e.</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -50,8 +50,8 @@
     <string name="t6_2_1_8_p">Ausbildung von Peer Coaches, die durch eigene Erfahrungen anderen helfen</string>
     <string name="t6_2_2_p">Wir sind stolz auf diese Erfolge und arbeiten weiter daran, unser Angebot auszubauen.</string>
     <string name="t6_2_a">Anstehende Angebote anschauen</string>
-    <string name="t7_1_1_h">Das Team</string>
-    <string name="t7_1_2_h">Das Team von #To.B.e.</string>
+    <string name="t7_1_1_1_h">Das Team</string>
+    <string name="t7_1_1_2_h">Das Team von #To.B.e.</string>
     <string name="t7_1_p">Unser Team von T.o.B.e. besteht aus vielen unterschiedlichen Charakteren. Wir alle haben aber das gleiche Ziel – Hilfe für Betroffene und Aufklärung zum Thema narzisstischer Missbrauch in toxischen Beziehungen.</string>
     <string name="t7_1_a">Zum Team</string>
     <string name="t7_1_1_h">Svenja Andrea Beck</string>
@@ -78,6 +78,15 @@
     <string name="t8_5_1a">Thomas Schmidt</string>
     <string name="t8_5_2a">Rechtsanwalt der sich mit narzisstischen Beziehungen auskennt</string>
     <string name="t8_5_3a">www.anwalt-schmidt.com</string>
+    <string name="t9_1_h">online tipps</string>
+    <string name="t9_2_h">Neues vom Blog</string>
+    <string name="t9_2_1_p">Zwei Teilnehmerinnen haben die Ausbildung erfolgreich abgeschlossen</string>
+    <string name="t9_2_2_p">9. Juni 2026</string>
+    <string name="t9_3_1_p">Unglaublich aber wahr… wie sehr narzisstischer missbrauch die Eltern-Kind Ebene zerstört</string>
+    <string name="t9_3_2_p">11. März 2026</string>
+    <string name="t9_4_1_p">Safe Place School 2026 Projekt</string>
+    <string name="t9_4_2_p">27. Januar 2026</string>
+
     <string name="anfang">Anfang</string>
     <string name="zur_ck">zurück</string>
     <string name="weiter">weiter</string>

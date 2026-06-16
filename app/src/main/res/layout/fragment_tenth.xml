@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".FirstFragment">
+    tools:context=".page1.FirstFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,13 +16,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_1_h" />
+            android:text="@string/t7_1_1_1_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_2_h" />
+            android:text="@string/t7_1_1_2_h" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -48,10 +48,12 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_1_h" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/t7_1_1_p" />
+
         <ImageView
             android:layout_width="350px"
             android:layout_height="400px"
@@ -64,10 +66,12 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_2_h" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/t7_1_2_p" />
+
         <ImageView
             android:layout_width="350px"
             android:layout_height="400px"
@@ -80,6 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_3_h" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
