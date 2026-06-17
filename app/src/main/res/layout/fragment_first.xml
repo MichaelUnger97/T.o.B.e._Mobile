@@ -19,6 +19,7 @@
             android:src="@drawable/tobe_logo" />
 
         <TextView
+            android:textSize="@dimen/h2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -29,5 +30,11 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t1_p" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t1_a" />
     </LinearLayout>
 </ScrollView>

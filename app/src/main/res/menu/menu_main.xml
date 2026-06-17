@@ -1,10 +1,76 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="de.tobe.mobile.page1.MainActivity">
+
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/verein"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:title="@string/verein">
+        <menu>
+            <item
+                android:id="@+id/about_us"
+                android:orderInCategory="110"
+                android:title="@string/ber_uns" />
+            <item
+                android:id="@+id/become_member"
+                android:orderInCategory="120"
+                android:title="@string/mitglied_werden" />
+            <item
+                android:id="@+id/satzung"
+                android:orderInCategory="130"
+                android:title="@string/satzung" />
+            <item
+                android:id="@+id/finanzierung"
+                android:orderInCategory="140"
+                android:title="@string/finanzierung" />
+            <item
+                android:id="@+id/koop"
+                android:orderInCategory="150"
+                android:title="@string/kooperationspartner_unsere_f_rderer" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/unser_angebot"
+        android:orderInCategory="200"
+        android:title="@string/unser_angebot">
+        <menu>
+
+            <item
+                android:id="@+id/welche_hilfe"
+                android:orderInCategory="210"
+                android:title="@string/welche_hilfe_k_nnen_wir_anbieten" />
+            <item
+                android:id="@+id/safe_place"
+                android:orderInCategory="220"
+                android:title="@string/safe_place_school_projekt" />
+            <item
+                android:id="@+id/faq"
+                android:orderInCategory="230"
+                android:title="@string/faq" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/anlaufstellen"
+        android:orderInCategory="300"
+        android:title="@string/anlaufstellen" />
+    <item
+        android:id="@+id/termine"
+        android:orderInCategory="400"
+        android:title="@string/termine" />
+    <item
+        android:id="@+id/grevio"
+        android:orderInCategory="500"
+        android:title="@string/grevio_bericht" />
+    <item
+        android:id="@+id/blog"
+        android:orderInCategory="600"
+        android:title="@string/blog" />
+    <item
+        android:id="@+id/spenden"
+        android:orderInCategory="700"
+        android:title="@string/spenden" />
+    <item
+        android:id="@+id/kontakt"
+        android:orderInCategory="800"
+        android:title="@string/kontakt" />
 </menu>

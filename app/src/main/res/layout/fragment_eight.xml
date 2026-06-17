@@ -16,6 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:textSize="@dimen/h1"
             android:text="@string/t6_h" />
 
         <ImageView
@@ -28,6 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:textSize="@dimen/h2"
             android:text="@string/t6_1_h" />
 
         <TextView

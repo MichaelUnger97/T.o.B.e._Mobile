@@ -14,7 +14,8 @@
             android:name=".page1.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.ToBeMobile"
-            android:windowSoftInputMode="adjustResize">
+            android:windowSoftInputMode="adjustResize"
+            android:label="Home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

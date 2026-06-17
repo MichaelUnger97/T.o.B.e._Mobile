@@ -9,6 +9,7 @@
 
     <string name="t1_h">Toxische Beziehungen überwinden</string>
     <string name="t1_p">Wir haben das große Ziel, Menschen, die in toxischen Beziehungen feststecken, zu stärken, ihnen zu helfen wieder den Weg zu sich selbst zu finden, um die schlechten Muster zu durchbrechen und ein eigenständiges, glückliches Leben zu führen.</string>
+    <string name="t1_a">Lerne mehr über uns</string>
     <string name="t2_h">Zusammen gegen ungesunde Beziehungen</string>
     <string name="t2_1_h">Erhalte Hilfe</string>
     <string name="t2_1_p">Als betroffene Person oder als Angehöriger bekommst du bei uns Hilfe in Form von virtuellen Selbsthilfegruppen sowie regelmäßigen Vorträgen. Wir helfen dir außerdem wichtige Organisationen zu kontaktieren, die dich auf deinem Befreiungsweg unterstützen werden.</string>
@@ -63,10 +64,10 @@
     <string name="t7_2_h">Hilfeinsel - bei akuter häuslicher Gewalt</string>
     <string name="t7_2_p">Die Hilfeinsel gegen häusliche Gewalt ist ein sicherer Ort, an dem Betroffene Unterstützung finden können. Hier erhalten sie Beratung, Schutz und Informationen, um ihre Situation zu verbessern. Die Hilfeinsel bietet ein vertrautes Umfeld, in dem Menschen offen über ihre Erfahrungen sprechen können, ohne Angst vor Verurteilung oder weiteren Übergriffen zu haben.</string>
     <string name="t7_2_a">Hilfegruppen auswählen</string>
-    <string name="t8_1_1_h">kooperationspartner</string>
+    <string name="t8_1_1_h">Kooperationspartner</string>
     <string name="t8_1_2_h">Großes Hilfenetzwerk</string>
     <string name="t8_1_p">Wir möchten unseren Mitgliedern die besten Hilfestellungen geben, um aus toxischen Beziehungen aussteigen zu können, genau deshalb brauchen wir ein flächendeckendes Netzwerk.</string>
-    <string name="t8_1_a">kooperationspartner</string>
+    <string name="t8_1_a">Kooperationspartner</string>
     <string name="t8_2_1a">Ruth Marquardt</string>
     <string name="t8_2_2a">Verein Mitmenschlichkeit</string>
     <string name="t8_2_3a">mitmenschlichkeit.com</string>
@@ -78,7 +79,7 @@
     <string name="t8_5_1a">Thomas Schmidt</string>
     <string name="t8_5_2a">Rechtsanwalt der sich mit narzisstischen Beziehungen auskennt</string>
     <string name="t8_5_3a">www.anwalt-schmidt.com</string>
-    <string name="t9_1_h">online tipps</string>
+    <string name="t9_1_h">Online Tipps</string>
     <string name="t9_2_h">Neues vom Blog</string>
     <string name="t9_2_1_p">Zwei Teilnehmerinnen haben die Ausbildung erfolgreich abgeschlossen</string>
     <string name="t9_2_2_p">9. Juni 2026</string>
@@ -88,7 +89,23 @@
     <string name="t9_4_2_p">27. Januar 2026</string>
 
     <string name="anfang">Anfang</string>
-    <string name="zur_ck">zurück</string>
-    <string name="weiter">weiter</string>
+    <string name="zur_ck">Zurück</string>
+    <string name="weiter">Weiter</string>
+    <string name="verein">Verein</string>
+    <string name="ber_uns">Über uns</string>
+    <string name="satzung">Satzung</string>
+    <string name="mitglied_werden">Mitglied werden</string>
+    <string name="kooperationspartner_unsere_f_rderer">Kooperationspartner / Unsere Förderer</string>
+    <string name="unser_angebot">Unser Angebot</string>
+    <string name="welche_hilfe_k_nnen_wir_anbieten">Welche Hilfe können wir anbieten</string>
+    <string name="safe_place_school_projekt">Safe Place School Projekt</string>
+    <string name="faq">FAQ</string>
+    <string name="anlaufstellen">Anlaufstellen</string>
+    <string name="termine">Termine</string>
+    <string name="grevio_bericht">Grevio Bericht</string>
+    <string name="blog">Blog</string>
+    <string name="spenden">Spenden</string>
+    <string name="kontakt">Kontakt</string>
+    <string name="finanzierung">Finanzierung</string>
 
 </resources>
