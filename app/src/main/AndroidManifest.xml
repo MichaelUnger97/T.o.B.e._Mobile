@@ -11,17 +11,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToBeMobile">
         <activity
-            android:name=".page1.MainActivity"
+            android:name=".page_home.HomeActivity"
             android:exported="true"
             android:theme="@style/Theme.ToBeMobile"
             android:windowSoftInputMode="adjustResize"
-            android:label="Home">
+            android:label="Start">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".page_about_us.AboutUsActivity"
+            android:theme="@style/Theme.ToBeMobile"
+            android:windowSoftInputMode="adjustResize"
+            android:label="Wir über uns" />
     </application>
 
 </manifest>

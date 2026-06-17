@@ -1,18 +1,18 @@
-package de.tobe.mobile.page1
+package de.tobe.mobile.page_home
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentThirteenthBinding
+import de.tobe.mobile.databinding.FragmentSecondBinding
 
 /**
- * A simple [Fragment] subclass as the default destination in the navigation.
+ * A simple [Fragment] subclass as the second destination in the navigation.
  */
-class ThirteenthFragment : Fragment() {
+class SecondFragment : Fragment() {
 
-    private var _binding: FragmentThirteenthBinding? = null
+    private var _binding: FragmentSecondBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,11 +22,11 @@ class ThirteenthFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentThirteenthBinding.inflate(inflater, container, false)
+
+        _binding = FragmentSecondBinding.inflate(inflater, container, false)
         return binding.root
 
     }
-
 
     override fun onDestroyView() {
         super.onDestroyView()

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".page_home.EleventhFragment">
+    tools:context=".page_about_us.TwentyfourthFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,18 +17,34 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:textSize="@dimen/h2"
-            android:text="@string/t7_2_h" />
+            android:text="@string/t11_h" />
+
+        <ImageView
+            android:layout_width="350px"
+            android:layout_height="400px"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/calvin" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_2_p" />
+            android:textSize="@dimen/h1"
+            android:text="@string/t11_1_3_h" />
 
-        <Button
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_2_a" />
+            android:text="@string/t11_1_3_1_p" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t11_1_3_2_p" />
+
+
     </LinearLayout>
 </ScrollView>

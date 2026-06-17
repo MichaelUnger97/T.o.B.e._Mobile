@@ -36,8 +36,7 @@
     <string name="t5_a">Zur Facbook Gruppe</string>
     <string name="t6_h">Arbeit des Vereins</string>
     <string name="t6_1_h">Unsere Projekte</string>
-    <string name="t6_1_p">Unser Schwerpunkt liegt auf Hilfe für Betroffene. Wir sind sind dabei ein großes Netzwerk, mit deutschlandweiten Selbsthilfegruppen zu organisieren. In jeder Stadt sollen Betroffenen Hilfe bekommen.
-        Darüber hinaus halten wir regelmäßige Vorträge, die sich sowohl an Betroffene als auch an Angehörige und alle Interessierte richten.</string>
+    <string name="t6_1_p">Unser Schwerpunkt liegt auf Hilfe für Betroffene. Wir sind dabei ein großes Netzwerk, mit deutschlandweiten Selbsthilfegruppen zu organisieren. In jeder Stadt sollen Betroffenen Hilfe bekommen. Darüber hinaus halten wir regelmäßige Vorträge, die sich sowohl an Betroffene als auch an Angehörige und alle Interessierte richten.</string>
     <string name="t6_1_a">Zu aktuellen Terminen</string>
     <string name="t6_2_h">Was wir bereits im Verein umgesetzt haben</string>
     <string name="t6_2_1_h">Unser Verein hat wichtige Projekte gestartet, um Betroffene zu unterstützen:</string>
@@ -88,6 +87,43 @@
     <string name="t9_4_1_p">Safe Place School 2026 Projekt</string>
     <string name="t9_4_2_p">27. Januar 2026</string>
 
+    <string name="t10_1_h">Liebe hat uns schwach gemacht. Als wir die Liebe zu uns selbst fanden, konnten wir endlich anfangen zu LEBEN.</string>
+    <string name="t10_2_h">Wir über uns</string>
+    <string name="t10_1_p">T.o.B.e – Toxische Beziehungen überwinden steht für Hoffnung, Mut und echte Veränderung. Wir sind überzeugt: Manchmal reicht ein einziger Moment, ein einziger Impuls, um ein Leben in eine neue Richtung zu lenken.</string>
+    <string name="t10_2_p">Seit vier Jahren setzen wir uns mit Herzblut dafür ein, Menschen aus toxischen Beziehungen zu begleiten – behutsam, respektvoll und auf Augenhöhe. Unser Fokus liegt auf Aufklärung, Gleichstellung und dem Schutz vor narzisstischem Missbrauch in Verbindung mit häuslicher Gewalt. Doch vor allem geht es uns um eines: den Menschen wieder an sich selbst glauben zu lassen.</string>
+    <string name="t10_3_p">In dieser Zeit ist ein vielfältiges Angebot entstanden, das Betroffenen Orientierung, Halt und konkrete Hilfe bietet – und das bewusst für jeden zugänglich ist. Für einen Jahresbeitrag von nur 40 € ermöglichen wir Zugang zu Vorträgen, Workshops und unterstützenden Formaten, die nicht nur informieren, sondern stärken, auffangen und neue Perspektiven eröffnen.</string>
+    <string name="t10_4_p">Wir zeigen Wege auf, wo vorher Ausweglosigkeit war. Wir geben Werkzeuge an die Hand, wo Unsicherheit herrscht. Und wir schaffen Räume, in denen Menschen erkennen dürfen, dass sie nicht allein sind – und dass Veränderung möglich ist.</string>
+    <string name="t10_5_p">Unsere Arbeit verlangt Feingefühl, Geduld und tiefes Verständnis. Doch wir glauben fest daran: Jeder Mensch verdient ein Leben frei von Angst und Abhängigkeit. Gemeinsam mit unseren Kooperationspartnern bauen wir ein starkes Netzwerk auf, das trägt, schützt und begleitet. Wir möchten nicht nur helfen.</string>
+    <string name="t10_6_p">Wir möchten bewegen – Herzen, Gedanken und letztlich Leben.</string>
+    <string name="t11_h">Unsere Menschen</string>
+    <string name="t11_1_p">Die Gründer und Mitglieder von T.o.B.e. engagieren sich meist wegen ihrer eigenen Erfahrungen im Kampf gegen psychischen und körperlichen Missbrauch in Beziehungen. Unser Fokus liegt dabei auf Aufklärung und Empathie für Opfer von narzisstischem Missbrauch. Denn gerade die emotionale Gewalt und ihre Auswirkungen bleiben oft verborgen und werden von Außenstehenden unterschätzt.</string>
+    <string name="t11_1_1_h">Svenja Beck</string>
+    <string name="t11_1_1_1_p">1. Vorsitzende &amp; Gründungsmitglied</string>
+    <string name="t11_1_1_2_p">Mein Leben ist 2012 völlig aus den Fugen geraten, als ich meinen Ex-Partner kennenlernte und mich daraufhin in einer toxischen Partnerschaft mit einem Narzissten wiederfand. Diese war geprägt vom emotionalen sowie narzisstischen Missbrauch und starker körperlicher Gewalt. Die Trennung ist mir nach 5 Jahren nur gelungen, weil ich mich intensiv mit dem Thema „Emotionaler Missbrauch“ beschäftigt habe und außerdem viele Menschen hatte, die mich dabei unterstützt haben. Darüber hinaus fand ich eine sehr kompetente Therapeutin.</string>
+    <string name="t11_1_1_3_p">Heute mache ich Aufklärungsarbeit zu diesen Themen und möchte anderen Menschen ein Vorbild sein. Ich möchte ihnen helfen, die toxische Beziehung zu überwinden, und ihnen zeigen, dass das Leben nach einer solchen Beziehung wieder lebenswert sein kann.</string>
+    <string name="t11_1_2_h">Chris Hebstreit</string>
+    <string name="t11_1_2_1_p">Schatzmeister &amp; Gründungsmitglied</string>
+    <string name="t11_1_2_2_p">Ich bin der Partner von Svenja Beck. Ich engagiere mich in dem Verein vor allem, um den Angehörigen, also Partnern, Familie, Freunden, zu zeigen, wie sie den Betroffenen  in der schweren Zeit der Trennung zur Seite stehen können. Denn auch wir haben sehr schwere Phasen durchleben müssen, konnten diese aber gemeinsam überwinden.</string>
+    <string name="t11_1_2_3_p">Darüber hinaus helfe ich den neuen Partnern oder Familienangehörigen bei der Kommunikation mit betroffenen Kindern. Ich unterstütze sie dabei, die Kinder in der Familie so gut wie möglich aufzufangen und ihnen in schweren Momenten eine Stütze zusein.</string>
+    <string name="t11_1_3_h">Calvin Tyron Beck</string>
+    <string name="t11_1_3_1_p">Stellvertretender Vorsitzende &amp; Gründungsmitglied</string>
+    <string name="t11_1_3_2_p">Meine Mama war eine Betroffene. Ich habe als Kind sehr unter der Situation gelitten und weiß, wie schlimm es ist diesen Weg als Kind zu gehen. Heute möchte ich andere Menschen dabei unterstützen und zeigen, wie wir als Familie es geschafft haben, und Ihnen Mut geben, es auch zu schaffen.</string>
+    <string name="t11_2_1_h">Bianca</string>
+    <string name="t11_2_1_1_p">Gründungsmitglied</string>
+    <string name="t11_2_2_h">Julia</string>
+    <string name="t11_2_2_1_p">Gründungsmitglied</string>
+    <string name="t11_2_2_2_p">Mein Name ist Julia, 36 Jahre alt. Mein Expartner hat mich über 2 Jahre psychisch manipuliert, misshandelt und am Ende fast in den Suizid getrieben. Ich möchte Aufklärungsarbeit leisten und als Wegweiser aus dem Narzissmus helfen.</string>
+    <string name="t11_2_3_h">Calvin</string>
+    <string name="t11_2_3_1_p">Gründungsmitglied</string>
+    <string name="t11_2_3_2_p">Meine Mama war eine Betroffene. Ich habe als Kind sehr unter der Situation gelitten und weiß, wie schlimm es ist, diesen Weg als Kind zu gehen. Heute möchte ich andere Kinder dabei unterstützen und zeigen, wie wir als Familie es geschafft haben, und ihnen Mut geben, es auch zu schaffen.</string>
+    <string name="t12_h">Was kannst du tun?</string>
+    <string name="t12_1_p">Jeder, auch du, kann etwas für ein selbstbestimmtes, glückliches Leben außerhalb von toxischen Beziehungen tun. Bist du selbst oder eine dir nahestehende Person betroffen? Wage den ersten Schritt – besuche eine unserer Veranstaltungen und lerne uns kennen.</string>
+    <string name="t12_2_p">Möchtest du uns aktiv bei unserer Arbeit unterstützen, werde Mitglied des Vereins. Wir freuen uns auf dich!</string>
+    <string name="t12_3_p">Wenn du unsere Ziele und unser Tun genauso wichtig wie wir findest und finanzielle Hilfe für einen guten Zweck leisten möchtest, sind wir für deine Spende dankbar.</string>
+    <string name="t12_1_a">Mitmachen</string>
+    <string name="t12_2_a">Unterstützen</string>
+    <string name="t12_3_a">Veranstaltung besuchen</string>
+
     <string name="anfang">Anfang</string>
     <string name="zur_ck">Zurück</string>
     <string name="weiter">Weiter</string>
@@ -107,5 +143,6 @@
     <string name="spenden">Spenden</string>
     <string name="kontakt">Kontakt</string>
     <string name="finanzierung">Finanzierung</string>
+    <string name="start">Start</string>
 
 </resources>

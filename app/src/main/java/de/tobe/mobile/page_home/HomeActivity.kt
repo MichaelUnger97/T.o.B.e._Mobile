@@ -1,5 +1,6 @@
-package de.tobe.mobile.page1
+package de.tobe.mobile.page_home
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
@@ -10,17 +11,18 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.commit
 import de.tobe.mobile.R
-import de.tobe.mobile.databinding.ActivityMainBinding
+import de.tobe.mobile.databinding.ActivityHomeBinding
+import de.tobe.mobile.page_about_us.AboutUsActivity
 
-class MainActivity : AppCompatActivity() {
+class HomeActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         ViewCompat.setOnApplyWindowInsetsListener(binding.main) { v, insets ->
@@ -88,7 +90,7 @@ class MainActivity : AppCompatActivity() {
         return fragmentNr
     }
 
-    fun getNext(current: Int?): Fragment {
+    private fun getNext(current: Int?): Fragment {
         return current?.let {
             val next = it + 1
             if (next < 14) {
@@ -99,14 +101,14 @@ class MainActivity : AppCompatActivity() {
         } ?: FirstFragment()
     }
 
-    fun getPrev(current: Int?): Fragment {
+    private fun getPrev(current: Int?): Fragment {
         return current?.let {
             val prev = it - 1
             fragmentFromNr(prev)
         } ?: FirstFragment()
     }
 
-    fun fragmentFromNr(nr: Int): Fragment? {
+    private fun fragmentFromNr(nr: Int): Fragment? {
         return when (nr) {
             1 -> FirstFragment()
             2 -> SecondFragment()
@@ -136,7 +138,11 @@ class MainActivity : AppCompatActivity() {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         return when (item.itemId) {
-            R.id.verein -> true
+            R.id.about_us -> {
+                startActivity(Intent(this, AboutUsActivity::class.java))
+                true
+            }
+
             else -> super.onOptionsItemSelected(item)
         }
     }

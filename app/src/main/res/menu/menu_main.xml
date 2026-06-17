@@ -1,7 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="de.tobe.mobile.page1.MainActivity">
+    tools:context="de.tobe.mobile.page_home.HomeActivity">
 
+    <item
+        android:id="@+id/start"
+        android:orderInCategory="50"
+        android:title="@string/start" />
     <item
         android:id="@+id/verein"
         android:orderInCategory="100"

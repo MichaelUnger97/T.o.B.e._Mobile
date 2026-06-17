@@ -1,4 +1,4 @@
-package de.tobe.mobile.page1
+package de.tobe.mobile.page_home
 
 import android.os.Bundle
 import android.view.LayoutInflater

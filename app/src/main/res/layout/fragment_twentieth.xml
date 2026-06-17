@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".page_home.TenthFragment">
+    tools:context=".page_about_us.TwentiethFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -13,83 +13,53 @@
         android:padding="16dp">
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
             android:textSize="@dimen/h1"
-            android:text="@string/t7_1_1_1_h" />
-
-        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
+            android:text="@string/t10_1_h" />
+
+        <TextView
             android:textSize="@dimen/h2"
-            android:text="@string/t7_1_1_2_h" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t10_2_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_p" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:text="@string/t7_1_a" />
-
-        <ImageView
-            android:layout_width="350px"
-            android:layout_height="400px"
-            android:layout_marginTop="16dp"
-            android:layout_gravity="center_horizontal"
-            android:src="@drawable/svenja" />
+            android:text="@string/t10_1_p" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_1_h" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/t7_1_1_p" />
-
-        <ImageView
-            android:layout_width="350px"
-            android:layout_height="400px"
-            android:layout_marginTop="16dp"
-            android:layout_gravity="center_horizontal"
-            android:src="@drawable/calvin" />
+            android:text="@string/t10_2_p" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_2_h" />
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/t7_1_2_p" />
-
-        <ImageView
-            android:layout_width="350px"
-            android:layout_height="400px"
-            android:layout_marginTop="16dp"
-            android:layout_gravity="center_horizontal"
-            android:src="@drawable/chris" />
+            android:text="@string/t10_3_p" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_1_3_h" />
+            android:text="@string/t10_4_p" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/t7_1_3_p" />
+            android:layout_marginTop="16dp"
+            android:text="@string/t10_5_p" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/t10_6_p" />
     </LinearLayout>
 </ScrollView>

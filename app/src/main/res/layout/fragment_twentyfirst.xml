@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".page_home.EleventhFragment">
+    tools:context=".page_about_us.TwentyfirstFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -17,18 +17,13 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:textSize="@dimen/h2"
-            android:text="@string/t7_2_h" />
+            android:text="@string/t11_h" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/t7_2_p" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:text="@string/t7_2_a" />
+            android:textSize="@dimen/h1"
+            android:text="@string/t11_1_p" />
     </LinearLayout>
 </ScrollView>
