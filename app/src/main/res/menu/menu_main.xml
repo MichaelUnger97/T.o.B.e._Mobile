@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="de.tobe.mobile.page_home.HomeActivity">
+    tools:context="de.tobe.mobile.pages.home.HomeActivity">
 
     <item
         android:id="@+id/start"

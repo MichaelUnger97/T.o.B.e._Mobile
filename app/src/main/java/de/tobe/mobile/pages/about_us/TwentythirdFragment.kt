@@ -1,18 +1,18 @@
-package de.tobe.mobile.page_about_us
+package de.tobe.mobile.pages.about_us
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentTwentyfourthBinding
+import de.tobe.mobile.databinding.FragmentTwentythirdBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
-class TwentyfourthFragment : Fragment() {
+class TwentythirdFragment : Fragment() {
 
-    private var _binding: FragmentTwentyfourthBinding? = null
+    private var _binding: FragmentTwentythirdBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,7 +22,7 @@ class TwentyfourthFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentTwentyfourthBinding.inflate(inflater, container, false)
+        _binding = FragmentTwentythirdBinding.inflate(inflater, container, false)
         return binding.root
 
     }

@@ -1,18 +1,18 @@
-package de.tobe.mobile.page_home
+package de.tobe.mobile.pages.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentThirdBinding
+import de.tobe.mobile.databinding.FragmentEightBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
-class ThirdFragment : Fragment() {
+class EightFragment : Fragment() {
 
-    private var _binding: FragmentThirdBinding? = null
+    private var _binding: FragmentEightBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,7 +22,7 @@ class ThirdFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentThirdBinding.inflate(inflater, container, false)
+        _binding = FragmentEightBinding.inflate(inflater, container, false)
         return binding.root
 
     }

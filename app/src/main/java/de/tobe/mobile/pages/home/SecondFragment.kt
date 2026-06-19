@@ -1,18 +1,18 @@
-package de.tobe.mobile.page_home
+package de.tobe.mobile.pages.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentSixthBinding
+import de.tobe.mobile.databinding.FragmentSecondBinding
 
 /**
- * A simple [Fragment] subclass as the default destination in the navigation.
+ * A simple [Fragment] subclass as the second destination in the navigation.
  */
-class SixthFragment : Fragment() {
+class SecondFragment : Fragment() {
 
-    private var _binding: FragmentSixthBinding? = null
+    private var _binding: FragmentSecondBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,11 +22,11 @@ class SixthFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentSixthBinding.inflate(inflater, container, false)
+
+        _binding = FragmentSecondBinding.inflate(inflater, container, false)
         return binding.root
 
     }
-
 
     override fun onDestroyView() {
         super.onDestroyView()

@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToBeMobile">
         <activity
-            android:name=".page_home.HomeActivity"
+            android:name=".pages.home.HomeActivity"
             android:exported="true"
             android:theme="@style/Theme.ToBeMobile"
             android:windowSoftInputMode="adjustResize"
@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".page_about_us.AboutUsActivity"
+            android:name=".pages.about_us.AboutUsActivity"
             android:theme="@style/Theme.ToBeMobile"
             android:windowSoftInputMode="adjustResize"
             android:label="Wir über uns" />

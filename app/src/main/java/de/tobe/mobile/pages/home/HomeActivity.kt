@@ -1,4 +1,4 @@
-package de.tobe.mobile.page_about_us
+package de.tobe.mobile.pages.home
 
 import android.content.Intent
 import android.os.Bundle
@@ -11,19 +11,18 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.commit
 import de.tobe.mobile.R
-import de.tobe.mobile.databinding.ActivityAboutUsBinding
-import de.tobe.mobile.page_home.FirstFragment
-import de.tobe.mobile.page_home.HomeActivity
+import de.tobe.mobile.databinding.ActivityHomeBinding
+import de.tobe.mobile.pages.about_us.AboutUsActivity
 
-class AboutUsActivity : AppCompatActivity() {
+class HomeActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityAboutUsBinding
+    private lateinit var binding: ActivityHomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
 
-        binding = ActivityAboutUsBinding.inflate(layoutInflater)
+        binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         ViewCompat.setOnApplyWindowInsetsListener(binding.main) { v, insets ->
@@ -35,13 +34,13 @@ class AboutUsActivity : AppCompatActivity() {
 
         binding.toolbar
         supportFragmentManager.commit {
-            replace(R.id.nav_host_fragment_content_main, TwentiethFragment())
+            replace(R.id.nav_host_fragment_content_main, FirstFragment())
             setReorderingAllowed(true)
             addToBackStack(null) // Name can be null
         }
         binding.buttonFirst.setOnClickListener {
             supportFragmentManager.commit {
-                replace(R.id.nav_host_fragment_content_main, TwentiethFragment())
+                replace(R.id.nav_host_fragment_content_main, FirstFragment())
                 setReorderingAllowed(true)
                 addToBackStack(null) // Name can be null
             }
@@ -73,13 +72,19 @@ class AboutUsActivity : AppCompatActivity() {
         val fragment =
             supportFragmentManager.findFragmentById(R.id.nav_host_fragment_content_main)!!
         val fragmentNr = when (fragment) {
-            is TwentiethFragment -> 0
-            is TwentyfirstFragment -> 1
-            is TwentysecondFragment -> 2
-            is TwentythirdFragment -> 3
-            is TwentyfourthFragment -> 4
-            is TwentyfifthFragment -> 5
-            is TwentysixthFragment -> 6
+            is FirstFragment -> 1
+            is SecondFragment -> 2
+            is ThirdFragment -> 3
+            is FourthFragment -> 4
+            is FifthFragment -> 5
+            is SixthFragment -> 6
+            is SeventhFragment -> 7
+            is EightFragment -> 8
+            is NinthFragment -> 9
+            is TenthFragment -> 10
+            is EleventhFragment -> 11
+            is TwelvthFragment -> 12
+            is ThirteenthFragment -> 13
             else -> null
         }
         return fragmentNr
@@ -88,10 +93,10 @@ class AboutUsActivity : AppCompatActivity() {
     private fun getNext(current: Int?): Fragment {
         return current?.let {
             val next = it + 1
-            if (next < 7) {
+            if (next < 14) {
                 fragmentFromNr(next)
             } else {
-                TwentysixthFragment()
+                ThirteenthFragment()
             }
         } ?: FirstFragment()
     }
@@ -100,18 +105,24 @@ class AboutUsActivity : AppCompatActivity() {
         return current?.let {
             val prev = it - 1
             fragmentFromNr(prev)
-        } ?: TwentiethFragment()
+        } ?: FirstFragment()
     }
 
     private fun fragmentFromNr(nr: Int): Fragment? {
         return when (nr) {
-            0 -> TwentiethFragment()
-            1 -> TwentyfirstFragment()
-            2 -> TwentysecondFragment()
-            3 -> TwentythirdFragment()
-            4 -> TwentyfourthFragment()
-            5 -> TwentyfifthFragment()
-            6 -> TwentysixthFragment()
+            1 -> FirstFragment()
+            2 -> SecondFragment()
+            3 -> ThirdFragment()
+            4 -> FourthFragment()
+            5 -> FifthFragment()
+            6 -> SixthFragment()
+            7 -> SeventhFragment()
+            8 -> EightFragment()
+            9 -> NinthFragment()
+            10 -> TenthFragment()
+            11 -> EleventhFragment()
+            12 -> TwelvthFragment()
+            13 -> ThirteenthFragment()
             else -> null
         }
     }
@@ -127,8 +138,8 @@ class AboutUsActivity : AppCompatActivity() {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         return when (item.itemId) {
-            R.id.start -> {
-                startActivity(Intent(this, HomeActivity::class.java))
+            R.id.about_us -> {
+                startActivity(Intent(this, AboutUsActivity::class.java))
                 true
             }
 
