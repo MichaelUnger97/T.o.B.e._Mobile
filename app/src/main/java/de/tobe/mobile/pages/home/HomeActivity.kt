@@ -1,20 +1,16 @@
 package de.tobe.mobile.pages.home
 
-import android.content.Intent
 import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
 import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.commit
 import de.tobe.mobile.R
 import de.tobe.mobile.databinding.ActivityHomeBinding
-import de.tobe.mobile.pages.about_us.AboutUsActivity
+import de.tobe.mobile.pages.BaseActivity
 
-class HomeActivity : AppCompatActivity() {
+class HomeActivity : BaseActivity() {
 
     private lateinit var binding: ActivityHomeBinding
 
@@ -124,26 +120,6 @@ class HomeActivity : AppCompatActivity() {
             12 -> TwelvthFragment()
             13 -> ThirteenthFragment()
             else -> null
-        }
-    }
-
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        menuInflater.inflate(R.menu.menu_main, menu)
-        return true
-    }
-
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        return when (item.itemId) {
-            R.id.about_us -> {
-                startActivity(Intent(this, AboutUsActivity::class.java))
-                true
-            }
-
-            else -> super.onOptionsItemSelected(item)
         }
     }
 }

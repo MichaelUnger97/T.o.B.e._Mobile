@@ -1,4 +1,4 @@
-package de.tobe.mobile.pages.about_us
+package de.tobe.mobile.pages.become_member
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -10,7 +10,7 @@ import de.tobe.mobile.R
 import de.tobe.mobile.databinding.ActivityAboutUsBinding
 import de.tobe.mobile.pages.BaseActivity
 
-class AboutUsActivity : BaseActivity() {
+class BecomeMemberActivity : BaseActivity() {
 
     private lateinit var binding: ActivityAboutUsBinding
 
@@ -30,13 +30,13 @@ class AboutUsActivity : BaseActivity() {
 
         binding.toolbar
         supportFragmentManager.commit {
-            replace(R.id.nav_host_fragment_content_main, TwentiethFragment())
+            replace(R.id.nav_host_fragment_content_main, ThirtiethFragment())
             setReorderingAllowed(true)
             addToBackStack(null) // Name can be null
         }
         binding.buttonFirst.setOnClickListener {
             supportFragmentManager.commit {
-                replace(R.id.nav_host_fragment_content_main, TwentiethFragment())
+                replace(R.id.nav_host_fragment_content_main, ThirtiethFragment())
                 setReorderingAllowed(true)
                 addToBackStack(null) // Name can be null
             }
@@ -68,13 +68,10 @@ class AboutUsActivity : BaseActivity() {
         val fragment =
             supportFragmentManager.findFragmentById(R.id.nav_host_fragment_content_main)!!
         val fragmentNr = when (fragment) {
-            is TwentiethFragment -> 0
-            is TwentyfirstFragment -> 1
-            is TwentysecondFragment -> 2
-            is TwentythirdFragment -> 3
-            is TwentyfourthFragment -> 4
-            is TwentyfifthFragment -> 5
-            is TwentysixthFragment -> 6
+            is ThirtiethFragment -> 0
+            is ThirtyfirstFragment -> 1
+            is ThirtysecondFragment -> 2
+            is ThirtythirdFragment -> 3
             else -> null
         }
         return fragmentNr
@@ -83,32 +80,28 @@ class AboutUsActivity : BaseActivity() {
     private fun getNext(current: Int?): Fragment {
         return current?.let {
             val next = it + 1
-            if (next < 7) {
+            if (next < 4) {
                 fragmentFromNr(next)
             } else {
-                TwentysixthFragment()
+                ThirtythirdFragment()
             }
-        } ?: TwentysixthFragment()
+        } ?: ThirtythirdFragment()
     }
 
     private fun getPrev(current: Int?): Fragment {
         return current?.let {
             val prev = it - 1
             fragmentFromNr(prev)
-        } ?: TwentiethFragment()
+        } ?: ThirtiethFragment()
     }
 
     private fun fragmentFromNr(nr: Int): Fragment? {
         return when (nr) {
-            0 -> TwentiethFragment()
-            1 -> TwentyfirstFragment()
-            2 -> TwentysecondFragment()
-            3 -> TwentythirdFragment()
-            4 -> TwentyfourthFragment()
-            5 -> TwentyfifthFragment()
-            6 -> TwentysixthFragment()
+            0 -> ThirtiethFragment()
+            1 -> ThirtyfirstFragment()
+            2 -> ThirtysecondFragment()
+            3 -> ThirtythirdFragment()
             else -> null
         }
     }
-
 }

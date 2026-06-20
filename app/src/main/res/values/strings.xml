@@ -124,6 +124,21 @@
     <string name="t12_2_a">Unterstützen</string>
     <string name="t12_3_a">Veranstaltung besuchen</string>
 
+    <string name="t15_1_h">Werde Teil von T.o.B.e.</string>
+    <string name="t15_1_1_p">Du bist jederzeit herzlich willkommen, ein Teil von T.o.B.e zu werden. Wir brauchen jede Hilfe, um unsere Aufklärungsarbeit bundesweit voran zu bringen. Egal ob du als Partner fungieren, aktiv an Vorträgen und anderen Veranstaltungen teilnehmen möchtest oder lieber im Hintergrund bleibst, wir finden die richtige Aufgabe für dich.</string>
+    <string name="t15_1_2_p">Wir engagieren uns ehrenamtlich im Verein, weil wir das Thema, narzisstischer Missbrauch in toxischen Beziehungen, endlich öffentlich machen und von der Schambehaftung befreien wollen. Viele von uns haben genau diesen Missbrauch erlebt und vielleicht passiert es dir gerade auch. Wir finden dies darf kein Tabu-Thema mehr sein. Wenn du der gleichen Meinung bist, komme gerne in unser Team von T.o.B.e.</string>
+    <string name="t15_2_h">Wie kannst du dich einbringen?</string>
+    <string name="t15_2_1_p">Da wir ein vielfältiger Verein sind, möchten wir dir gerne die Möglichkeit geben, dich und deine Ideen, die dem Vereinsziel dienen, einzubringen. Gemeinsam erarbeiten wir Konzepte, um diese Ideen umzusetzen.</string>
+    <string name="t15_2_2_p">Natürlich haben wir als Verein auch eine Menge altäglicher Aufgaben wie zum Beispiel Mitgliederbetreuung, Kontakt zu Kooperationspartner, Organsation von Veranstaltungen etc. zu bewältigen. Es wäre fantastisch, wenn du uns dabei unterstützt. Wir freuen uns darauf, dich im Team begrüßen zu dürfen!</string>
+    <string name="t15_3_h">Wie kannst du einsteigen?</string>
+    <string name="t15_3_1_p">Denkst du, dass du zu uns passt? Möchtest du Teil von T.o.B.e sein? Toll!</string>
+    <string name="t15_3_2_p">Klicke jetzt direkt auf den Button unten und fülle einfach das Mitgliedsformular aus. Sende es uns anschließend per Post oder per E-Mail unterschrieben zurück und du bekommst von uns zeitnah die Bestätigung, dass du aktives Mitglied im Verein bist. Der erste Mitgliedsbeitrag ist ab Beginn der Mitgliedschaft zu überweisen, im zweiten Jahr erfolgt dann die Abbuchung.</string>
+    <string name="t15_4_h">Verliere keine Zeit, melde dich direkt bei uns!</string>
+    <string name="t15_4_1_p">Wenn du zur Familie von T.o.B.e. gehören möchtest, fülle bitte den folgenden Mitgliederantrag aus und schicke ihn an kontakt@tobe-verein.de. Bei Fragen kontaktiere uns gerne vorab unter +49 162 3390243.</string>
+    <string name="t15_4_2_p">Der Mitgliedsbeitrag beträgt 40€, sobald du diesen überwiesen hast, kannst du direkt bei uns starten!</string>
+    <string name="t15_4_a">Migliederantrag ausfüllen</string>
+
+
     <string name="anfang">Anfang</string>
     <string name="zur_ck">Zurück</string>
     <string name="weiter">Weiter</string>
