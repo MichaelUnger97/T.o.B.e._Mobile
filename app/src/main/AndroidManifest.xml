@@ -9,24 +9,23 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ToBeMobile">
+        android:theme="@style/Theme.ToBeMobile"
+        android:windowSoftInputMode="adjustResize">
         <activity
             android:name=".pages.home.HomeActivity"
             android:exported="true"
-            android:theme="@style/Theme.ToBeMobile"
-            android:windowSoftInputMode="adjustResize"
             android:label="Start">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".pages.about_us.AboutUsActivity"
-            android:theme="@style/Theme.ToBeMobile"
-            android:windowSoftInputMode="adjustResize"
             android:label="Wir über uns" />
+        <activity
+            android:name=".pages.become_member.BecomeMemberActivity"
+            android:label="Mitglied werden" />
     </application>
 
 </manifest>
