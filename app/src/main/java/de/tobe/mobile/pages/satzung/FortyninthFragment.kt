@@ -1,18 +1,18 @@
-package de.tobe.mobile.pages.become_member
+package de.tobe.mobile.pages.satzung
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentThirtythirdBinding
+import de.tobe.mobile.databinding.FragmentNinthBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
-class ThirtythirdFragment : Fragment() {
+class FortyninthFragment : Fragment() {
 
-    private var _binding: FragmentThirtythirdBinding? = null
+    private var _binding: FragmentNinthBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,7 +22,7 @@ class ThirtythirdFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentThirtythirdBinding.inflate(inflater, container, false)
+        _binding = FragmentNinthBinding.inflate(inflater, container, false)
         return binding.root
 
     }

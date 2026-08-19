@@ -138,6 +138,216 @@
     <string name="t15_4_2_p">Der Mitgliedsbeitrag beträgt 40€, sobald du diesen überwiesen hast, kannst du direkt bei uns starten!</string>
     <string name="t15_4_a">Migliederantrag ausfüllen</string>
 
+    <string name="t20_h">Satzung</string>
+    <string name="t20_1_h">§ 1 Name und Sitz</string>
+    <string name="t20_1_1_h">Der Verein führt den Namen #T.o.B.e Toxische Beziehungen überwinden e.V.</string>
+    <string name="t20_1_2_h">Der Verein hat seinen Sitz in Otzberg und ist in das Vereinsregister einzutragen.</string>
+    <string name="t20_2_h">§ 2 Zweck des Vereins</string>
+    <string name="t20_2_1_h">1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige und mildtätige Zwecke im
+        Sinne der Abschnitte “steuerbegünstigte Zwecke” der Abgabenordnung.</string>
+    <string name="t20_2_2_h">2. Zweck des Vereins ist die Förderung der Gleichberechtigung von Frauen und Männern § 52 (2) S.
+        1 Nr. 18. Dies beinhaltet im Einzelnen:</string>
+    <string name="t20_2_2_1_p">– Prävention gegen Häusliche Gewalt und Seelischen Missbrauch</string>
+    <string name="t20_2_2_2_p">– Wertevermittlung für gegenseitigen Respekt und Toleranz</string>
+    <string name="t20_2_2_3_p">– Aufklärung über Narzisstischen Missbrauch und dessen Gefahren</string>
+    <string name="t20_2_2_4_p">– Vermittlung von Mut und Hilfestellungen für Betroffene und Angehörige</string>
+    <string name="t20_2_3_h">3. Der Satzungszweck wird insbesondere durch folgende Maßnahmen verwirklicht:</string>
+    <string name="t20_2_3_1_h">a) Informationsveranstaltungen in Schulen</string>
+    <string name="t20_2_3_1_1_p">– zur Aufklärung insbesondere über Gefahren der Häuslichen Gewalt</string>
+    <string name="t20_2_3_1_2_p">– Dahingehende Präventionsarbeit / Wie kann ich mich davor schützen</string>
+    <string name="t20_2_3_1_3_p">– Vermittlung von Mut und Hilfestellungen für Betroffene</string>
+    <string name="t20_2_3_2_h">b) Informationsveranstaltungen in Kommunen</string>
+    <string name="t20_2_3_2_1_p">– Zur Aufklärung insbesondere über Gefahren der Häuslichen Gewalt</string>
+    <string name="t20_2_3_2_2_p">– Dahingehende Präventionsarbeit / Wie kann ich mir selbst helfen und mich schützen</string>
+    <string name="t20_2_3_2_3_p">– Vermittlung von Mut und Hilfestellungen für Betroffene und ihre Angehörigen.</string>
+    <string name="t20_2_3_3_h">c) Öffentlichkeitsarbeit in den Schlüsselberufen, die mit diesem Thema konfrontiert sind.</string>
+    <string name="t20_2_3_3_1_p">– zur Aufklärung insbesondere über Gefahren der Häuslichen Gewalt</string>
+    <string name="t20_2_3_3_2_p">– Dahingehende Präventionsarbeit / Wie können Sie Menschen Hilfestellungen geben.</string>
+    <string name="t20_2_3_3_3_p">– Vermittlung von Empathie sowie Hilfe für die Aufarbeitung der Betroffenen.</string>
+    <string name="t20_2_4_h">4. Der Verein kann seinen Zweck selbst, durch Hilfspersonen im Sinne des § 57 AO oder dadurch
+    verwirklichen, dass er Mittel für die Umsetzung der steuerbegünstigten Zwecke einer anderen
+    Körperschaft oder für die Verwirklichung steuerbegünstigter Zwecke durch eine juristische Person
+    des öffentlichen Rechts beschafft; die Beschaffung von Mitteln für eine unbeschränkt
+    steuerpflichtige Körperschaft des privaten
+        Rechts setzt voraus, dass diese selbst steuerbegünstigt ist.</string>
+    <string name="t20_3_h">§ 3 Gemeinnützige Tätigkeit</string>
+    <string name="t20_3_1_h">1. Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche
+        Zwecke.</string>
+    <string name="t20_3_2_h">2. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder
+    erhalten keine Anteile am Überschuss und auch keine sonstigen Zuwendungen. Vereinsämter sind
+        ehrenamtlich auszuüben.</string>
+    <string name="t20_3_3_h">3. Es darf keine Person durch Ausgaben, die den Zwecken des Vereins fremd sind, oder durch
+        unverhältnismäßig hohe Vergütungen begünstigt werden.</string>
+    <string name="t20_3_4_h">4. Der Verein kann seinen Mitgliedern und weiteren Personen, die für den Verein tätig sind, im
+    Rahmen der gesetzlichen Bestimmungen eine Aufwandsentschädigung in Form der Ehrenamtspauschale
+        (§ 3 Nr. 26a EStG) gewähren.</string>
+    <string name="t20_3_5_h">5. Die Auszahlung der Ehrenamtspauschale erfolgt nur, wenn die Tätigkeit im Interesse des
+    Vereins erbracht wurde und die Mittel des Vereins dies zulassen. Ein Rechtsanspruch auf die
+        Gewährung der Ehrenamtspauschale besteht nicht.</string>
+    <string name="t20_3_6_h">6. Die Höhe der Ehrenamtspauschale darf die gesetzlich festgelegte Höchstgrenze nicht
+        überschreiten.</string>
+    <string name="t20_3_7_h">7. Über die Gewährung und die Höhe der Ehrenamtspauschale entscheidet der Vorstand durch
+        Beschluss.</string>
+    <string name="t20_3_8_h">8. Die Zahlung der Ehrenamtspauschale darf die Gemeinnützigkeit des Vereins nicht gefährden.
+    Insbesondere darf keine unverhältnismäßige Vergütung erfolgen, und die Mittel des Vereins sind
+        stets gemäß der Vereinszwecke zu verwenden.</string>
+    <string name="t20_4_h">§ 4 Mildtätiger Zweck des Vereins</string>
+    <string name="t20_4_1_h">Der Verein verfolgt seine mildtätigen Zwecke durch Hilfe und Unterstützung von Menschen in
+    akuten körperlichen, geistigen oder seelischen Notlagen. Der Satzungszweck wird u. a.
+        verwirklicht durch</string>
+    <string name="t20_4_2_h">1. Beratung</string>
+    <string name="t20_4_3_h">2. Betreuung</string>
+    <string name="t20_4_4_h">3. Präventionsarbeit</string>
+    <string name="t20_4_5_h">4. Hilfestellungen</string>
+    <string name="t20_4_6_h">5. Netzwerk bilden</string>
+    <string name="t20_5_h">§ 5 Mitgliedschaft</string>
+    <string name="t20_5_1_h">1. Mitglied des Vereins können volljährige natürliche und juristische Personen sowie
+        Personengesellschaften werden.</string>
+    <string name="t20_5_2_h">2. Der Erwerb der Mitgliedschaft erfolgt durch schriftlichen Antrag an den Vorstand, der über
+        Die Aufnahme entscheidet.</string>
+    <string name="t20_5_3_1_h">3. Mitgliedsbeitrag und Kündigungen</string>
+    <string name="t20_5_3_2_h">Neue Mitglieder haben im 1. Jahr der Mitgliedschaft den ersten Mitgliedsbeitrag per Überweisung
+    an den Verein zu leisten. Sollte ein Mitglied vorzeitig die Mitgliedschaft vor den 30.11. eines
+    Jahres kündigen, z. B. nach ein paar Wochen oder Monaten. So ist der Beitrag in voller Höhe zu
+    zahlen. Die Mitgliedschaft endet zum Ende des Kalenderjahres und muss bis 30.11. eines Jahres
+        gekündigt werden.</string>
+    <string name="t20_5_4_1_h">4. Verschwiegenheitserklärung</string>
+    <string name="t20_5_4_2_h">Der Eintritt in den Verein ist nur möglich, wenn eine unterschriebene Verschwiegenheitserklärung
+    mit Antragsstellung vorliegt. Die Verschwiegenheitserklärung wurde an die Leiter der
+        Selbsthilfegruppen, die in Kooperation mit dem Verein stehen übergeben.</string>
+    <string name="t20_6_h">§ 6 Erlöschen der Mitgliedschaft</string>
+    <string name="t20_6_1_h">1. Die Mitgliedschaft erlischt durch Tod, Erlöschen der Rechtspersönlichkeit, Austritt oder
+        Ausschluss aus dem Verein.</string>
+    <string name="t20_6_2_h">2. Der Austritt erfolgt durch schriftliche Erklärung gegenüber dem Vorstand. Der Austritt kann
+    nur zum Ende eines Kalenderjahres erklärt werden, wobei eine Kündigungsfrist von 3 Monaten zum
+        Jahresende einzuhalten ist.</string>
+    <string name="t20_6_3_h">3. Ein Mitglied kann durch den Vorstand, der hierüber Beschluss zu fassen hat, aus dem Verein
+        ausgeschlossen werden, wenn das Mitglied</string>
+    <string name="t20_6_3_1_h">a) Einen Jahresbeitrag trotz schriftlicher Mahnung mit einer Fristsetzung von mindestens
+        4 Wochen nicht bezahlt hat;</string>
+    <string name="t20_6_3_2_h">b) den Verein geschädigt oder sonst gegen seine Interessen schwerwiegend verstoßen hat;</string>
+    <string name="t20_6_3_3_h">c) in seiner Person einen sonstigen wichtigen Grund verwirklicht. Vor Beschlussfassung über die
+    Ausschließung ist dem auszuschließenden Mitglied Gelegenheit zur Stellungnahme zu geben. Der
+    Ausschließungsbeschluss ist schriftlich zu fassen und zu begründen und dem Mitglied zuzusenden.
+    Gegen die Ausschließung kann das auszuschließende Mitglied die nächste anstehende
+    Mitgliederversammlung anrufen. Bis zur Entscheidung der Mitgliederversammlung ruhen in diesem
+        Falle die Mitgliedschaftsrechte des auszuschließenden Mitglieds.</string>
+    <string name="t20_7_h">§ 7 Beiträge</string>
+    <string name="t20_7_1_h">1. Die Mitglieder leisten einen Jahresbeitrag von 40,00 €. Personen, die eine feste Aufgabe im
+        Verein übernehmen, sind vom Mitgliedsbeitrag befreit, genauso wie die Gründungsmitglieder.</string>
+    <string name="t20_7_2_h">2. Für das Jahr des Vereinsbeitritts und der Beendigung der Mitgliedschaft ist der volle
+        Jahresbeitrag zu bezahlen.</string>
+    <string name="t20_8_h">§ 8 Organe des Vereins</string>
+    Organe des Vereins sind die Vorstandschaft, der Vorstand im Sinne des § 26 BGB
+    (vertretungsberechtigter Vorstand) und die Mitgliederversammlung.
+    <string name="t20_9_h">§ 9 Vorstand</string>
+    <string name="t20_9_1_h">1. Der erweiterte geschäftsführende Vorstand besteht aus mindestens drei von der
+    Mitgliederversammlung gewählten Vorstandsmitgliedern, dem 1. Vorsitzenden, dem Stellvertretenden
+        Vorsitzenden und dem Schatzmeister.</string>
+    <string name="t20_9_2_h">2. Der Verein wird gerichtlich und außergerichtlich durch den 1. Vorsitzenden als
+    Alleinvertretungsberechtigten und den stellvertretende. Vorsitzenden und den Schatzmeister
+        gemeinsam vertreten (Vorstand im Sinne des § 26 BGB).</string>
+    <string name="t20_9_3_h">3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von 2 Jahren, gerechnet von der
+    Wahl an – gewählt. Er bleibt bis zur Wahl eines neuen Vorstandes im Amt. Scheidet ein Mitglied
+    des Vorstandes während der Amtsperiode aus, so können die verbleibenden Vorstandsmitglieder ein
+        Ersatzmitglied für die restliche Amtsdauer des Ausgeschiedenen benennen.</string>
+    <string name="t20_9_4_h">4. Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die
+    Satzung oder zwingende gesetzliche Vorschriften einem anderen Vereinsorgan zugewiesen sind. Er
+        führt die laufenden Geschäfte des Vereins, insbesondere also</string>
+    <string name="t20_9_4_1_h">a) Vorbereitung und Durchführung von Fördermaßnahmen für den Verein;</string>
+    <string name="t20_9_4_2_h">b) Vorbereitung und Einberufung der Mitgliederversammlungen;</string>
+    <string name="t20_9_4_3_h">c) Ausführung der Beschlüsse der Mitgliederversammlung;</string>
+    <string name="t20_9_4_4_h">d) Unterrichtung der Mitglieder über die Vereinsangelegenheiten, insbesondere durch Erstellung
+        eines Jahresberichtes.</string>
+    <string name="t20_9_5_h">5. Der Vorstand fasst seine Beschlüsse im Allgemeinen in Vorstandssitzungen, die vom 1.
+    Vorsitzenden – bei dessen Verhinderung vom 2. Vorsitzenden – schriftlich, fernmündlich oder per
+    E-Mail mit einer Frist von einer Woche einzuberufen sind. Er ist beschlussfähig, wenn mindestens
+    zwei Vorstandsmitglieder anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der
+    abgegebenen gültigen Stimmen. Bei Stimmengleichheit entscheidet die Stimme des Sitzungsleiters.
+    Ein Vorstandsbeschluss kann auf schriftlichem Weg gefasst werden,
+    wenn alle Vorstandsmitglieder ihre Zustimmung zu diesem Verfahren erklären. Über die Beschlüsse
+        des Vorstandes ist ein Protokoll zu führen, das durch den Sitzungsleiter zu unterschreiben ist.</string>
+    <string name="t20_9_6_h">6. Die Mitglieder des Vorstandes können für ihre Tätigkeit eine angemessene Vergütung erhalten.
+    Außerdem kann der 1. Vorstandsvorsitzende auch als hauptberuflicher Arbeitnehmer/Projektmanager
+    angestellt werden. Zuständig für den Vertragsabschluss, die Änderung und die Beendigung des
+    Vertrages sind dann ausschließlich der stellvertretende Vorstand sowie der Schatzmeister.
+        Generell können zur Erfüllung des Vereinszwecks Personen eingestellt werden.</string>
+    <string name="t20_10_h">§ 10 Mitgliederversammlung</string>
+    <string name="t20_10_1_h">1. Die Mitgliederversammlung ist oberstes Organ des Vereins. In der Mitgliederversammlung hat
+    jedes Mitglied eine Stimme. Zur Ausübung des Stimmrechtes kann ein anderes Mitglied des Vereins
+    schriftlich bevollmächtigt werden. Ein Mitglied darf jedoch nicht mehr als drei
+        fremde Stimmen vertreten.</string>
+    <string name="t20_10_2_h">2. Die Mitgliederversammlung ist für folgende Aufgaben zuständig:</string>
+    <string name="t20_10_2_1_h">a) Entgegennahme und Genehmigung des Jahresberichtes des Vorstandes;</string>
+    <string name="t20_10_2_2_h">b) Entlastung des Vorstandes und der Kassenprüfer;</string>
+    <string name="t20_10_2_3_h">c) Wahl und Abberufung der Mitglieder des Vorstandes und der Kassenprüfer;</string>
+    <string name="t20_10_2_4_h">d) Festsetzung der Höhe der Jahresbeiträge, insbesondere des Mindestbeitrages;</string>
+    <string name="t20_10_2_5_h">e) Beschlussfassung über die Beschwerde gegen die Ablehnung eines Aufnahmeantrages sowie die
+        Berufung gegen einen Ausscheidungsbeschluss durch den Vorstand;</string>
+    <string name="t20_10_2_6_h">f) Ernennung von Ehrenmitgliedern;</string>
+    <string name="t20_10_2_7_h">g) Beschlussfassung über die grundlegenden Entscheidungen für die Förderpolitik des Vereins.</string>
+    <string name="t20_10_3_h">3. Die Einberufung der Mitgliederversammlung erfolgt durch den 1. Vorsitzenden, bei dessen
+    Verhinderung durch den 2. Vorsitzenden. Die Einberufung muss mindestens zwei Wochen vor dem Tag
+    der Versammlung unter Angabe der Tagesanordnung schriftlich erfolgen. Die
+        Frist beginnt mit dem auf die Absendung der Einberufung folgenden Tag.</string>
+    <string name="t20_10_4_h">4. Es kann jedes Mitglied beim Vorstand schriftlich die Ergänzung der Tagesordnung um weitere
+    Angelegenheiten – nicht jedoch Satzungsänderungen – beantragen. Die Tagesanordnung ist zu Beginn
+    der Mitgliederversammlung durch den Versammlungsleiter
+    entsprechend zu ergänzen. Über Anträge auf Ergänzung der Tagesanordnung, die erst in der
+    Mitgliederversammlung gestellt werden, beschließt die Mitgliederversammlung. Zur Annahme des
+        Antrages ist eine Mehrheit von ¼ der abgegebenen gültigen Stimmen erforderlich.</string>
+    <string name="t20_10_5_h">5. Jede ordnungsgemäß geladene Mitgliederversammlung ist beschlussfähig. Die
+    Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, soweit
+    durch Gesetz oder diese Satzung keine abweichenden Mehrheiten vorgeschrieben sind.
+    Enthaltungen werden als nicht erschienene Stimmen gewertet. Bei Stimmengleichheit entscheidet
+    die Stimme des Versammlungsleiters. Bei Wahlen entscheidet bei Stimmengleichheit das Los. Die
+    Abstimmungsart bestimmt der Versammlungsleiter. Bei Wahlen ist schriftlich und geheim
+        abzustimmen, soweit nicht die Mitgliederversammlung eine andere Art der Abstimmung beschließt.</string>
+    <string name="t20_10_6_h">6. Über jede Mitgliederversammlung ist ein Protokoll zu errichten, das vom jeweiligen
+    Versammlungsleiter und dem Protokollführer zu unterzeichnen ist und von dem jedem Mitglied eine
+        Abschrift an die zuletzt bekannte Anschrift oder per E-Mail zu übersenden ist.</string>
+    <string name="t20_10_7_h">7. Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse
+    erfordert oder die Einberufung von 40 % der Mitglieder unter Angabe des Grundes schriftlich
+        verlangt wird. Sie muss innerhalb einer Woche einberufen werden.</string>
+    <string name="t20_10_8_h">8. Mitgliederversammlungen finden online via Skype z. B. statt, der Versand der Einladungen
+        erfolgt digital per E-Mail.</string>
+    <string name="t20_10_9_h">9. Außerordentliche Mitgliederversammlungen
+        Hier müssen mindestens 5 Mitglieder anwesend sein, um eine Beschlussfähigkeit zu bewirken.</string>
+    <string name="t20_11_h">§ 11 Geschäftsjahr</string>
+    <string name="t20_11_1_h">1. Das Geschäftsjahr ist das Kalenderjahr.</string>
+    <string name="t20_11_2_h">2. Die Kasse des Vereins wird jedes Jahr durch einen oder mehrere von der Mitgliederversammlung
+    gewählte Kassenprüfer geprüft. Die Kassenprüfer prüfen, ob die Verwendung der Vereinsmittel den
+    Haushaltsansätzen entsprach und die Buchführung des Vereins ordnungsgemäß erfolgte. Hier drüber
+        haben die Kassenprüfer der Mitgliederversammlung Bericht zu erstatten.</string>
+    <string name="t20_12_h">§ 12 Satzungsänderungen</string>
+    <string name="t20_12_1_h">1. Eine geplante Änderung der Satzung muss als Tagesordnungspunkt in der Einladung der
+    Mitgliederversammlung bekannt gemacht werden. Über die Auflösung des Vereins kann nur in einer
+    eigens mit dieser Tagesordnung einberufenen Mitgliederversammlung beschlossen
+        werden.</string>
+    <string name="t20_12_2_h">2. Jede Satzungsänderung ist dem zuständigen Finanzamt unter Übersendung der geänderten Satzung
+        vorher zur Prüfung der Unbedenklichkeit anzuzeigen.</string>
+    <string name="t20_12_3_1_h">3. Bei Auflösung des Vereins oder bei Wegfall der steuerbegünstigten Zwecke des Vereins fällt
+    das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere
+    steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung. Der Anfall Berechtigte hat
+    das ihm anfallende Vermögen unmittelbar und ausschließlich für Zwecke der Förderung der
+        Gleichberechtigung von Frauen und Männern und mildtätige Zwecke zu verwenden.</string>
+    <string name="t20_12_3_2_h">Die Satzung wurde in der Gründungsversammlung vom 09.11.2021 errichtet.</string>
+    <string name="t20_12_3_3_h">Die Satzung wurde in der Jahresmitgliederversammlung am 22.02.2023 in nachfolgendem § angepasst.</string>
+    <string name="t20_12_3_3_1_p">• § 5 Mitgliedschaft, Absätze 3 und 4</string>
+    <string name="t20_12_3_3_2_p">• § 10 Absatz 8</string>
+    <string name="t20_12_3_3_3_p">• § 10 Absatz 9.</string>
+    <string name="t20_13_h">§ 13 Politische Ausrichtung/Anti-Diskriminierung</string>
+    <string name="t20_13_1_h">1. Der Verein verpflichtet sich, keinerlei politische Ausrichtung im Verein zuzulassen.
+        Politische Neutralität ist stets zu wahren.</string>
+    <string name="t20_13_2_h">2. Von einer Zusammenarbeit mit rechten Parteien distanziert sich der Verein ausdrücklich.</string>
+    <string name="t20_13_3_h">3. Eine Kooperation mit der AfD oder der linken Partei sind zu keiner Zeit in Erwägung zu
+        ziehen.</string>
+    <string name="t20_13_4_1_h">4. Diskriminierende Äußerungen oder negative geschlechterspezifische Äußerungen sind sofort zu
+        untersagen.</string>
+    <string name="t20_13_4_2_h">Vereinsmitglieder, die andere Vereinsmitglieder beleidigen, beschimpfen, diskriminieren oder
+    anderweitig zu nahe treten, sind sofort aus dem Verein auszuschließen. Die Mitgliedschaft endet
+        dann sofort/fristlos. Der Jahresbeitrag wird nicht erstattet.</string>
+    <string name="t20_13_4_3_h">Stand 05.03.2026</string>
 
     <string name="anfang">Anfang</string>
     <string name="zur_ck">Zurück</string>
