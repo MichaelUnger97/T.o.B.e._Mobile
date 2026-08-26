@@ -5,14 +5,14 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import de.tobe.mobile.databinding.FragmentSeventhBinding
+import de.tobe.mobile.databinding.FragmentFortyseventhBinding
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
 class FortyseventhFragment : Fragment() {
 
-    private var _binding: FragmentSeventhBinding? = null
+    private var _binding: FragmentFortyseventhBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -22,7 +22,7 @@ class FortyseventhFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentSeventhBinding.inflate(inflater, container, false)
+        _binding = FragmentFortyseventhBinding.inflate(inflater, container, false)
         return binding.root
 
     }

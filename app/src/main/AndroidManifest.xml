@@ -26,6 +26,9 @@
         <activity
             android:name=".pages.become_member.BecomeMemberActivity"
             android:label="Mitglied werden" />
+        <activity
+            android:name=".pages.satzung.SatzungActivity"
+            android:label="Satzung" />
     </application>
 
 </manifest>

@@ -8,6 +8,7 @@ import de.tobe.mobile.R
 import de.tobe.mobile.pages.about_us.AboutUsActivity
 import de.tobe.mobile.pages.become_member.BecomeMemberActivity
 import de.tobe.mobile.pages.home.HomeActivity
+import de.tobe.mobile.pages.satzung.SatzungActivity
 
 open class BaseActivity : AppCompatActivity() {
 
@@ -33,6 +34,11 @@ open class BaseActivity : AppCompatActivity() {
 
             R.id.become_member -> {
                 startActivity(Intent(this, BecomeMemberActivity::class.java))
+                true
+            }
+
+            R.id.satzung -> {
+                startActivity(Intent(this, SatzungActivity::class.java))
                 true
             }
 

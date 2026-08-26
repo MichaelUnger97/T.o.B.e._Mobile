@@ -164,7 +164,7 @@
     <string name="t20_2_3_3_1_p">– zur Aufklärung insbesondere über Gefahren der Häuslichen Gewalt</string>
     <string name="t20_2_3_3_2_p">– Dahingehende Präventionsarbeit / Wie können Sie Menschen Hilfestellungen geben.</string>
     <string name="t20_2_3_3_3_p">– Vermittlung von Empathie sowie Hilfe für die Aufarbeitung der Betroffenen.</string>
-    <string name="t20_2_4_h">4. Der Verein kann seinen Zweck selbst, durch Hilfspersonen im Sinne des § 57 AO oder dadurch
+    <string name="t20_2_3_4_h">4. Der Verein kann seinen Zweck selbst, durch Hilfspersonen im Sinne des § 57 AO oder dadurch
     verwirklichen, dass er Mittel für die Umsetzung der steuerbegünstigten Zwecke einer anderen
     Körperschaft oder für die Verwirklichung steuerbegünstigter Zwecke durch eine juristische Person
     des öffentlichen Rechts beschafft; die Beschaffung von Mitteln für eine unbeschränkt
@@ -238,8 +238,8 @@
     <string name="t20_7_2_h">2. Für das Jahr des Vereinsbeitritts und der Beendigung der Mitgliedschaft ist der volle
         Jahresbeitrag zu bezahlen.</string>
     <string name="t20_8_h">§ 8 Organe des Vereins</string>
-    Organe des Vereins sind die Vorstandschaft, der Vorstand im Sinne des § 26 BGB
-    (vertretungsberechtigter Vorstand) und die Mitgliederversammlung.
+    <string name="t20_8_1_h">Organe des Vereins sind die Vorstandschaft, der Vorstand im Sinne des § 26 BGB
+        (vertretungsberechtigter Vorstand) und die Mitgliederversammlung.</string>
     <string name="t20_9_h">§ 9 Vorstand</string>
     <string name="t20_9_1_h">1. Der erweiterte geschäftsführende Vorstand besteht aus mindestens drei von der
     Mitgliederversammlung gewählten Vorstandsmitgliedern, dem 1. Vorsitzenden, dem Stellvertretenden

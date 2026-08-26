@@ -75,7 +75,7 @@ class SatzungActivity : BaseActivity() {
             is FortyfifthFragment -> 5
             is FortysixthFragment -> 6
             is FortyseventhFragment -> 7
-            is FortyEightFragment -> 8
+            is FortyeightFragment -> 8
             is FortyninthFragment -> 9
             is FiftiethFragment -> 10
             is FiftyfirstFragment -> 11
@@ -113,7 +113,7 @@ class SatzungActivity : BaseActivity() {
             5 -> FortyfifthFragment()
             6 -> FortysixthFragment()
             7 -> FortyseventhFragment()
-            8 -> FortyEightFragment()
+            8 -> FortyeightFragment()
             9 -> FortyninthFragment()
             10 -> FiftiethFragment()
             11 -> FiftyfirstFragment()
