@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -21,18 +22,21 @@
 
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t12_1_p" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t12_2_p" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"

@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:textSize="@dimen/h1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -20,6 +21,7 @@
             android:text="@string/t9_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -43,12 +45,14 @@
                 android:src="@drawable/blog1" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="768px"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t9_2_1_p" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -73,12 +77,14 @@
                 android:src="@drawable/blog2" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="768px"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t9_3_1_p" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -103,12 +109,14 @@
                 android:src="@drawable/blog3" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="768px"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t9_4_1_p" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"

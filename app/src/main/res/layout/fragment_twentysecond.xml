@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -28,6 +29,7 @@
             android:src="@drawable/svenja_beck2" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -35,18 +37,21 @@
             android:text="@string/t11_1_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t11_1_1_1_p" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t11_1_1_2_p" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"

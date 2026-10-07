@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -20,6 +21,7 @@
             android:text="@string/t20_9_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -27,6 +29,7 @@
             android:text="@string/t20_9_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -34,6 +37,7 @@
             android:text="@string/t20_9_2_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -41,6 +45,7 @@
             android:text="@string/t20_9_3_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -48,6 +53,7 @@
             android:text="@string/t20_9_4_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -55,6 +61,7 @@
             android:text="@string/t20_9_4_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -62,6 +69,7 @@
             android:text="@string/t20_9_4_2_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -69,6 +77,7 @@
             android:text="@string/t20_9_4_3_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -76,6 +85,7 @@
             android:text="@string/t20_9_4_4_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="@dimen/h1"
@@ -83,6 +93,7 @@
             android:text="@string/t20_9_5_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"

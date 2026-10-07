@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -20,6 +21,7 @@
             android:text="@string/t7_1_1_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -27,6 +29,7 @@
             android:text="@string/t7_1_1_2_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -46,12 +49,14 @@
             android:src="@drawable/svenja" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/t7_1_1_p" />
@@ -64,12 +69,14 @@
             android:src="@drawable/calvin" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_2_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/t7_1_2_p" />
@@ -82,12 +89,14 @@
             android:src="@drawable/chris" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t7_1_3_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/t7_1_3_p" />

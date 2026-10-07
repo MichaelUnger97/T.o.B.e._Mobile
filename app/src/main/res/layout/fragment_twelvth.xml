@@ -13,6 +13,7 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -20,6 +21,7 @@
             android:text="@string/t8_1_1_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -27,6 +29,7 @@
             android:text="@string/t8_1_2_h" />
 
         <TextView
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -48,11 +51,13 @@
             android:background="@drawable/linear_border">
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/t8_2_1a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/t8_2_2a" />
@@ -68,12 +73,14 @@
             android:background="@drawable/linear_border">
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t8_3_1a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -90,18 +97,21 @@
             android:background="@drawable/linear_border">
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t8_4_1a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t8_4_2a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
@@ -118,18 +128,21 @@
             android:background="@drawable/linear_border">
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t8_5_1a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/t8_5_2a" />
 
             <TextView
+                android:textIsSelectable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"

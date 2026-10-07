@@ -13,6 +13,8 @@
         android:padding="16dp">
 
         <TextView
+            android:textIsSelectable="true"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -20,6 +22,8 @@
             android:text="@string/t20_2_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -27,6 +31,8 @@
             android:text="@string/t20_2_1_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -34,6 +40,8 @@
             android:text="@string/t20_2_2_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -41,6 +49,8 @@
             android:text="@string/t20_2_2_1_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="start"
@@ -48,6 +58,9 @@
             android:text="@string/t20_2_2_2_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -55,6 +68,8 @@
             android:text="@string/t20_2_2_3_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -62,6 +77,8 @@
             android:text="@string/t20_2_2_4_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -69,12 +86,16 @@
             android:text="@string/t20_2_3_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t20_2_3_1_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -82,6 +103,8 @@
             android:text="@string/t20_2_3_1_1_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -89,6 +112,8 @@
             android:text="@string/t20_2_3_1_2_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -96,12 +121,16 @@
             android:text="@string/t20_2_3_1_3_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t20_2_3_2_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -109,6 +138,8 @@
             android:text="@string/t20_2_3_2_1_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -116,6 +147,8 @@
             android:text="@string/t20_2_3_2_2_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -123,12 +156,16 @@
             android:text="@string/t20_2_3_2_3_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/t20_2_3_3_h" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -136,6 +173,8 @@
             android:text="@string/t20_2_3_3_1_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -143,6 +182,8 @@
             android:text="@string/t20_2_3_3_2_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -150,6 +191,8 @@
             android:text="@string/t20_2_3_3_3_p" />
 
         <TextView
+
+            android:textIsSelectable="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
